@@ -27,4 +27,11 @@
    ![08-lncount](https://github.com/ekenigsberg/BootCampHomework07-2019-07-20/blob/master/screenshots/08-lncount.png)
 
 ## Bonus
-* [Link to 'Bonus' Jupyter Notebook]()
+* ['Bonus' Jupyter Notebook](https://github.com/ekenigsberg/BootCampHomework07-2019-07-20/blob/master/Bonus.ipynb)
+  ![Average Salary by Title](https://github.com/ekenigsberg/BootCampHomework07-2019-07-20/blob/master/Average%20Salary%20by%20Title.png)
+* Technical Steps Breakdown:
+  * I started to go down [this very scary sequence of steps](https://docs.sqlalchemy.org/en/13/core/tutorial.html) to manually, laboriously build all the PostgreSQL tables in Python (but not Pandas) before re-reading the instructions.
+  * Once I realized our challenge for this assignment was solely to import from PostgreSQL into Pandas (not build custom tables and fields from scratch), [this tipsheet](https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas) proved very helpful for porting PostgreSQL tables to Pandas dataframes.
+* My employee badge reads 499942? Aha, I get it now:
+  ![April Fools](https://github.com/ekenigsberg/BootCampHomework07-2019-07-20/blob/master/screenshots/bonus-lirpasloof.png)
+  
