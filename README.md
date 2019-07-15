@@ -25,3 +25,6 @@
    ![07-salesdevemps](https://github.com/ekenigsberg/BootCampHomework07-2019-07-20/blob/master/screenshots/07-salesdevemps.png)
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
    ![08-lncount](https://github.com/ekenigsberg/BootCampHomework07-2019-07-20/blob/master/screenshots/08-lncount.png)
+
+## Bonus
+* [Link to 'Bonus' Jupyter Notebook]()
