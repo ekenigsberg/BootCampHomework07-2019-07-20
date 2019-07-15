@@ -34,4 +34,4 @@
   * Once I realized our challenge for this assignment was solely to import from PostgreSQL into Pandas (not build custom tables and fields from scratch), [this tipsheet](https://pythondata.com/quick-tip-sqlalchemy-for-mysql-and-pandas) proved very helpful for porting PostgreSQL tables to Pandas dataframes.
 * My employee badge reads 499942? Aha, I get it now:
   ![April Fools](https://github.com/ekenigsberg/BootCampHomework07-2019-07-20/blob/master/screenshots/bonus-lirpasloof.png)
-  
+* I humbly submit that "The Economist" magazine pulled off one of the better April Fool's pranks with [this article](https://www.economist.com/news/1995/04/01/more-is-more). It took me a couple of paragraphs to realize it was completely nonsensical.
