@@ -1,3 +1,5 @@
+# For Homework07-2019-07-20
+
 departments
 --
 dept_no char(4) PK
@@ -5,7 +7,7 @@ dept_name varchar(255)
 
 dept_emp
 --
-emp_no int PK
+emp_no int FK >0- employees.emp_no
 dept_no char(4) FK >0- departments.dept_no
 from_date date
 to_date date
